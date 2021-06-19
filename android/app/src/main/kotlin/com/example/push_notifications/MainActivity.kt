@@ -1,4 +1,4 @@
-package com.example.push_notifications
+package me.mongua.push_notifications_demo
 
 import io.flutter.embedding.android.FlutterActivity
 
